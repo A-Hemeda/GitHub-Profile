@@ -4,7 +4,7 @@
 
 # 📱 Screenshots #
 
-![Screen](https://user-images.githubusercontent.com/101954795/189191243-96b94703-f993-4d7d-a606-8b23564d85d7.jpg)
+![Screen](https://user-images.githubusercontent.com/101954795/189349033-2d2d4e55-65f3-49a5-a4e0-36f6fc44592d.jpg)
 
 # 📱 Video Screen #
 
