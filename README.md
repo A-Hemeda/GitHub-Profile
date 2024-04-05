@@ -65,10 +65,10 @@
 - [marcizhu](https://github.com/marcizhu/marcizhu)
 
 #### Code Mode 👨🏽‍💻
-- [Coding](https://github.com/A-Hemeda/A-Hemeda)
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
-- [Ash Baker](https://github.com/ashbakernz/ashbakernz)
 - [Anmol Singh](https://github.com/anmol098/anmol098)
+- [Ash Baker](https://github.com/ashbakernz/ashbakernz)
+- [Coding](https://github.com/A-Hemeda/A-Hemeda)
 - [Kiho](https://github.com/monkindey/monkindey)
 - [Marton](https://github.com/martonlederer/martonlederer)
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
