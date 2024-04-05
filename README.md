@@ -1,4 +1,4 @@
-# GitHub profile
+# GitHub Profile
 
 ### Contents:
   - [Categories](#categories)
