@@ -211,7 +211,6 @@
 - [Ksenia Morozova](https://github.com/kmoroz/kmoroz)
 
 #### Just Images 🎭
-- [Zack Krida](https://github.com/zackkrida/zackkrida)
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
 - [Akash Rai](https://github.com/akasrai/akasrai)
 - [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
