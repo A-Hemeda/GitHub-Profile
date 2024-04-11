@@ -189,7 +189,6 @@
 - [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
 
 #### GIFS 👻
-- [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
 - [Ari](https://github.com/ari-hacks/ari-hacks)
 - [Siv Ram Shastri](https://github.com/Prince-Shivaram/Prince-Shivaram)
 - [Shanu Mishra](https://github.com/Shanu1515/Shanu1515)
