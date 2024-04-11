@@ -212,7 +212,6 @@
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
-- [偏右](https://github.com/afc163/afc163)
 - [thewhiteh4t](https://github.com/thewhiteh4t/thewhiteh4t)
 - [Akash Rai](https://github.com/akasrai/akasrai)
 - [Oussama Bouchikhi](https://github.com/oussamabouchikhi/oussamabouchikhi)
