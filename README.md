@@ -63,10 +63,10 @@
 #### Code Mode 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 - [Anmol Singh](https://github.com/anmol098/anmol098)
+- [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
 - [Hemeda](https://github.com/A-Hemeda/A-Hemeda)
 - [Marton](https://github.com/martonlederer/martonlederer)
-- [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
 
 #### Dynamic Realtime 💫
 - [Anurag Hazra](https://github.com/anuraghazra/anuraghazra)
