@@ -68,10 +68,8 @@
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
 - [Anmol Singh](https://github.com/anmol098/anmol098)
 - [Ash Baker](https://github.com/ashbakernz/ashbakernz)
-- [Kiho](https://github.com/monkindey/monkindey)
 - [Hemeda](https://github.com/A-Hemeda/A-Hemeda)
 - [Marton](https://github.com/martonlederer/martonlederer)
-- [Redowan Delowar](https://github.com/rednafi/rednafi)
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
 
 #### Dynamic Realtime 💫
