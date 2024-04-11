@@ -225,9 +225,6 @@
 - [Alwin Wang](https://github.com/alwinw/alwinw)
 - [Ileriayo Adebiyi](https://github.com/ileriayo/ileriayo)
 - [Samujjwaal Dey](https://github.com/samujjwaal/samujjwaal)
-- [Char-Al](https://github.com/char-al/char-al)
-- [Oka](https://github.com/Coordinate-Cat/Coordinate-Cat)
-- [Nikita Rusetskii](https://github.com/xtenzQ/xtenzQ)
 - [Raphael Ebner](https://github.com/rafi0101/rafi0101)
 
 #### Fancy Fonts 🖋
